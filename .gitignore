@@ -13,6 +13,7 @@ public_html/.htaccess
 # WP-CLI
 db-sync
 sql-dump-*.sql
+db
 
 # Dotenv
 .env
